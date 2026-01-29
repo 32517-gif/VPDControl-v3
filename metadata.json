@@ -1,0 +1,5 @@
+{
+  "name": "GreenVPD: Smart Greenhouse Control System",
+  "description": "A comprehensive dashboard for monitoring and controlling a smart greenhouse based on Vapor Pressure Deficit (VPD) principles. Includes real-time calculation, AI analysis, and project documentation.",
+  "requestFramePermissions": []
+}
